@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey there 👋
+<h1>I'm João</h1>
+<ul>
+    <li>I Live in Brazil, basically in MG :grin::mask:</li>
+    <li>I have been learning about a little Front-end :computer::iphone::tv:</li>
+</ul>
 
-<!--
-**JoaoG23/JoaoG23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>About me:</h2>
+<a href="https://www.linkedin.com/in/joaog123/"><img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
+<a href="https://joaoguilhermeport.netlify.app/index.html"><img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>My Skills Nowdays</h2>
+
+<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"><img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"><img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+
+<h2>Statistics</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoG23&langs_count=8)](https://github.com/JoaoG23/github-readme-stats)
+
