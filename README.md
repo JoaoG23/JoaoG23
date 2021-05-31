@@ -4,7 +4,7 @@
     <li>I Live in Brazil, basically in MG :grin::mask:</li>
     <li>I have been learning about a little Front-end :computer::iphone::tv:</li>
     <li>I take technical course :floppy_disk::electric_plug:</li>
-    <li>My hobbies are !Drawings :blue_book: :pencil2: !Books! :books:</li>
+    <li>My hobbies are : Drawings:blue_book::pencil2:!  Books:books:! music :radio::musical_note:! Work out:muscle:!</li>
 </ul>
 
 <h2>About me:</h2>
