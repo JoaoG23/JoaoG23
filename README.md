@@ -9,7 +9,6 @@
 
 <h2>About me:</h2>
 <a href="https://www.linkedin.com/in/joaog123/"><img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
-<a href="https://jgportifolio.netlify.app/"><img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain.svg">  My Site</a>
 
 
 <h2>My Skills Nowdays</h2>
