@@ -9,8 +9,8 @@
 - **I still take technical course** 💾🔌
 - **My hobbies are : Drawings📘✏️! Books📚! music 📻🎵! Work out💪! Meditate 🧘**
 
-## **Tecnologias Usados**
-#### **🧑‍💻 No front-end**  <img src="https://c.tenor.com/0YV9kNh0t6UAAAAC/emoji-angry.gif" width="50"/>
+## **My Skills**
+#### **No front-end**  <img src="https://c.tenor.com/0YV9kNh0t6UAAAAC/emoji-angry.gif" width="50"/>
 
 
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)![CSS](https://img.icons8.com/color/48/000000/css3.png)![js](https://img.icons8.com/color/48/000000/javascript--v1.png)
@@ -19,7 +19,7 @@
 <img src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" width="48"/>
 
 
-#### **👥😃📎 No Back-end**
+#### **No Back-end**
 ![node](https://img.icons8.com/color/48/000000/nodejs.png)
 ![mongodb](https://img.icons8.com/color/48/000000/mongodb.png)
 ![mysql](https://img.icons8.com/fluency/48/000000/mysql-logo.png)
@@ -34,3 +34,5 @@
 **🤭🤘🏽 This is little about me and you look my repository please. My Thanks everybody! tchau!** 
 
 <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="96"/>
+
+
