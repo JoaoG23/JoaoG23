@@ -19,7 +19,7 @@
 <img src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" width="48"/>
 
 
-#### **No Back-end** <img src="https://c.tenor.com/DLP8WnhxPikAAAAj/dgmt-digitalmaterial.gif" width="50"/>
+#### **No Back-end** <img src="https://c.tenor.com/DLP8WnhxPikAAAAj/dgmt-digitalmaterial.gif" width="40"/>
 ![node](https://img.icons8.com/color/48/000000/nodejs.png)
 ![mongodb](https://img.icons8.com/color/48/000000/mongodb.png)
 ![mysql](https://img.icons8.com/fluency/48/000000/mysql-logo.png)
