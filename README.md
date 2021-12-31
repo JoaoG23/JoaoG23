@@ -25,5 +25,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoG23&langs_count=8)](https://github.com/JoaoG23/github-readme-stats)
 
-#### **🤭🤘🏽 This is little about me and you look my repository please. My Thanks everybody! tchau!👋** 
+**🤭🤘🏽 This is little about me and you look my repository please. My Thanks everybody! tchau!👋** 
 
