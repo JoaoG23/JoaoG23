@@ -14,15 +14,12 @@
 
 
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)![CSS](https://img.icons8.com/color/48/000000/css3.png)![js](https://img.icons8.com/color/48/000000/javascript--v1.png)
-![angularjs](https://img.icons8.com/color/48/000000/angularjs.png)
 ![bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 <img src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" width="48"/>
 
 
 #### **No Back-end** <img src="https://c.tenor.com/DLP8WnhxPikAAAAj/dgmt-digitalmaterial.gif" width="40"/>
-![node](https://img.icons8.com/color/48/000000/nodejs.png)
-![mongodb](https://img.icons8.com/color/48/000000/mongodb.png)
-![mysql](https://img.icons8.com/fluency/48/000000/mysql-logo.png)
+![node](https://img.icons8.com/color/48/000000/nodejs.png)![mongodb](https://img.icons8.com/color/48/000000/mongodb.png)![mysql](https://img.icons8.com/fluency/48/000000/mysql-logo.png)<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="48"/>     
 
 
 
