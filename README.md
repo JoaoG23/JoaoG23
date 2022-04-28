@@ -5,7 +5,7 @@
 
 ## **About me** 👨🏽🙋🏽
 - **I Live in Brazil, basically in MG 🇧🇷**
-- **I have been learning about a little Front-end 💻📱📺**
+- **I have been learning about a little of the Web development 💻📱📺**
 - **My hobbies are : Drawings📘✏️! Books📚! music 📻🎵! Work out💪! Meditate 🧘**
 
 ## **My Skills**
