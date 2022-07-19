@@ -15,7 +15,6 @@
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)![CSS](https://img.icons8.com/color/48/000000/css3.png)![js](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 <img src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" width="48"/>
-<img src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" width="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="48" />
           
 
