@@ -13,11 +13,6 @@
 - Musicas Só Rock🎸 e MPB🎻,
 - Malhar 💪 e as vezes me teletransportar para o Nirvana 🏔️com a meditação🧘.
 
-##### Meus Contatos
-
-[![Linkedin Badge](https://img.shields.io/badge/-Joao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaoo/)](https://www.linkedin.com/in/joaog123/) 
-[![Joao Guilherme](https://img.shields.io/badge/-joaoguilherme94@live.com-c80?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:joaoguilherme94@live.com)](mailto:joaoguilherme94@live.com)
-
 <img width='80' align='right' src='https://media4.giphy.com/media/9541eIHk1MNLa/giphy.gif?cid=ecf05e470ndn3cvumlohnlmei40zeoiy463x3n0qxs0zv089&rid=giphy.gif&ct=g'>
 <h3 align='left'>Minha Habilidades são 🦾:<h3>
 
@@ -37,6 +32,10 @@ Quando puder, por favor confira alguns de meus projetos, ficarei muito grato agr
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoG23&layout=compact&theme=react)](https://github.com/JoaoG23/github-readme-stats)
 
+##### Meus Contatos
+
+[![Linkedin Badge](https://img.shields.io/badge/-Joao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaoo/)](https://www.linkedin.com/in/joaog123/) 
+[![Joao Guilherme](https://img.shields.io/badge/-joaoguilherme94@live.com-c80?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:joaoguilherme94@live.com)](mailto:joaoguilherme94@live.com)
 
 
 ##### 🤭🤘🏽 Acho que já conhecem um pouco mais sobre mim! Obrigado por visualizar! Até a próxima pessoal!
