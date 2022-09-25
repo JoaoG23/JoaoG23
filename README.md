@@ -16,7 +16,7 @@
 <img width='80' align='right' src='https://media4.giphy.com/media/9541eIHk1MNLa/giphy.gif?cid=ecf05e470ndn3cvumlohnlmei40zeoiy463x3n0qxs0zv089&rid=giphy.gif&ct=g'>
 <h3 align='left'>Minha Habilidades são 🦾:<h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,electron,react,redux,styledcomponents,nodejs,express,postgres,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,electron,react,redux,styledcomponents,nodejs,express,postgres,mysql,mongodb,figma)](https://skillicons.dev)
 
 
 ### Os melhores! 😁👌🏽
