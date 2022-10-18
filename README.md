@@ -17,7 +17,7 @@
 <h3 align='left'>Minha Habilidades são 🦾:<h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,ts,bootstrap,electron,react,redux,styledcomponents,sass)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,spring,hibernate,postgres,mysql,mongodb,figma,jest,vite,aws,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,spring,hibernate,postgres,mysql,mongodb,figma,jest,vite,aws,vercel&theme=light)](https://skillicons.dev)
 
 
 ### Os melhores! 😁👌🏽
