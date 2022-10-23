@@ -36,6 +36,8 @@ Quando puder, por favor confira alguns de meus projetos, ficarei muito grato agr
 
 ##### Meus Contatos
 
+![Contador](https://komarev.com/ghpvc/?username=joaog123&style=for-the-badge)
+
 [![Linkedin Badge](https://img.shields.io/badge/-Joao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaoo/)](https://www.linkedin.com/in/joaog123/) 
 [![Joao Guilherme](https://img.shields.io/badge/-joaoguilherme94@live.com-c80?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:joaoguilherme94@live.com)](mailto:joaoguilherme94@live.com)
 
