@@ -20,15 +20,9 @@
 
 
 ### Os melhores! 😁👌🏽
-Quando puder, por favor confira alguns de meus projetos, ficarei muito grato agradeço desde já. 
-
-[![ProjetoFluxos](https://github-readme-stats.vercel.app/api/pin/?username=JoaoG23&repo=FluxosFrontend)](https://github.com/JoaoG23/FluxosFrontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoG23&repo=WayOfTheWeights-API)](https://github.com/JoaoG23/WayOfTheWeights-API)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoG23&repo=GuardaContas)](https://github.com/JoaoG23/GuardaContas)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoG23&repo=Joao-Acesso)](https://github.com/JoaoG23/Joao-Acesso)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoG23&repo=Joao-AcessoFrontend)](https://github.com/JoaoG23/Joao-AcessoFrontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoG23&repo=Fluxos-API)](https://github.com/JoaoG23/Fluxos-API)
-                                      
+Quando puder, por favor confira alguns de meus projetos mais recentes, ficarei muito grato agradeço desde já. 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoG23&repo=WayOfTheWeights-FrontEnd)](https://github.com/JoaoG23/WayOfTheWeights-FrontEnd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoG23&repo=WayOfTheWeights-API)](https://github.com/JoaoG23/WayOfTheWeights-API)                                     
 ### Estatísticas sobre os meus projetos![status](https://img.icons8.com/color/24/000000/combo-chart--v2.png)
 ![JoaoG23 GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoG23&show_icons=true&theme=algolia)
 
