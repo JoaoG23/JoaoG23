@@ -3,8 +3,9 @@
 
 <img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" width="96"/>
 
-[![Joao Guilherme](https://img.shields.io/badge/-Joao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaog123/)](https://www.linkedin.com/in/joaog123/) 
-[![Joao Guilherme](https://img.shields.io/badge/-joaoguilherme94@live.com-c80?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:joaoguilherme94@live.com)](mailto:joaoguilherme94@live.com)
+
+##### Contatos
+[![Joao Guilherme](	https://img.shields.io/badge/LinkedIn-Joaog123-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joaog123/)](https://www.linkedin.com/in/joaog123/) [![Joao Guilherme](https://img.shields.io/badge/Gmail-Joazi-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joazinhotito@gmail.com)[![Joao Guilherme](https://img.shields.io/badge/Microsoft_Outlook-joaoguilherme94-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=whitelink=mailto:joaoguilherme94@live.com)](mailto:joaoguilherme94@live.com)
 
 ### **Sabia um pouco sobre mim! 😉**
 
