@@ -3,10 +3,6 @@
 
 <img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" width="96"/>
 
-
-##### Contatos
-[![Joao Guilherme](	https://img.shields.io/badge/LinkedIn-Joaog123-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joaog123/)](https://www.linkedin.com/in/joaog123/) [![Joao Guilherme](https://img.shields.io/badge/Gmail-Joazi-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joazinhotito@gmail.com)[![Joao Guilherme](https://img.shields.io/badge/Microsoft_Outlook-joaoguilherme94-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=whitelink=mailto:joaoguilherme94@live.com)](mailto:joaoguilherme94@live.com)
-
 ### **Sabia um pouco sobre mim! 😉**
 
 -	Moro no Brasil
@@ -38,6 +34,8 @@ Quando puder, por favor confira alguns de meus projetos mais recentes, ficarei m
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoG23&layout=compact&theme=react)](https://github.com/JoaoG23/github-readme-stats)
 
+### Contatos
+[![Joao Guilherme](	https://img.shields.io/badge/LinkedIn-Joaog123-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joaog123/)](https://www.linkedin.com/in/joaog123/) [![Joao Guilherme](https://img.shields.io/badge/Gmail-Joazi-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joazinhotito@gmail.com)[![Joao Guilherme](https://img.shields.io/badge/Microsoft_Outlook-joaoguilherme94-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=whitelink=mailto:joaoguilherme94@live.com)](mailto:joaoguilherme94@live.com)
 
 ##### 🤭🤘🏽 Acho que já conhecem um pouco mais sobre mim! Obrigado por visualizar! Até a próxima pessoal!
 
