@@ -27,6 +27,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,spring,hibernate,postgres,mysql,mongodb,jest,vite,aws,vercel&theme=light)](https://skillicons.dev)
 
+
 ### Os melhores! 😁👌🏽
 Quando puder, por favor confira alguns de meus projetos mais recentes, ficarei muito grato agradeço desde já. 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoG23&repo=WayOfTheWeights-FrontEnd)](https://github.com/JoaoG23/WayOfTheWeights-FrontEnd)
