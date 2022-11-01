@@ -25,7 +25,7 @@
 
 **Back** 🥑👥
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,spring,hibernate,postgres,mysql,mongodb,figma,jest,vite,aws,vercel&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,spring,hibernate,postgres,mysql,mongodb,jest,vite,aws,vercel&theme=light)](https://skillicons.dev)
 
 ### Os melhores! 😁👌🏽
 Quando puder, por favor confira alguns de meus projetos mais recentes, ficarei muito grato agradeço desde já. 
