@@ -22,7 +22,7 @@
 
 **Back** 🥑👥
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,spring,hibernate,postgres,mysql,mongodb,jest,vite,aws,vercel&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,prisma,express,java,spring,hibernate,postgres,mysql,mongodb,jest,vite,aws,vercel&theme=light)](https://skillicons.dev)
 
 
 ### Os melhores! 😁👌🏽
