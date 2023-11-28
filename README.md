@@ -59,7 +59,6 @@ Quando puder, por favor confira alguns de meus projetos mais recentes, ficarei m
 
 ### Estatísticas sobre os meus projetos![status](https://img.icons8.com/color/24/000000/combo-chart--v2.png)
 ![JoaoG23 GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoG23&show_icons=true&theme=algolia)
-
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoG23&layout=compact&theme=react)](https://github.com/JoaoG23/github-readme-stats)
 
 ### Contatos
