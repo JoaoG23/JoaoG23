@@ -56,6 +56,7 @@ Quando puder, por favor confira alguns de meus projetos mais recentes, ficarei m
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoG23&repo=GContas)](https://github.com/JoaoG23/GContas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoG23&repo=WayOfTheWeights-FrontEnd)](https://github.com/JoaoG23/WayOfTheWeights-FrontEnd)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoG23&repo=fx-financas)](https://github.com/JoaoG23/fx-financas) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoG23&repo=Sistema-Acesso-Frontend)](https://github.com/JoaoG23/Sistema-Acesso-Frontend)
 
 ### Estatísticas sobre os meus projetos![status](https://img.icons8.com/color/24/000000/combo-chart--v2.png)
 ![JoaoG23 GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoG23&show_icons=true&theme=algolia)
