@@ -54,7 +54,7 @@
 ### Os melhores! 😁👌🏽
 Quando puder, por favor confira alguns de meus projetos mais recentes, ficarei muito grato agradeço desde já. 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoG23&repo=GContas)](https://github.com/JoaoG23/GContas)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoG23&repo=WayOfTheWeights-FrontEnd)](https://github.com/JoaoG23/WayOfTheWeights-FrontEnd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoG23&repo=Deploy-Manager)](https://github.com/JoaoG23/Deploy-Manager)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoG23&repo=fx-financas)](https://github.com/JoaoG23/fx-financas) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoG23&repo=Sistema-Acesso-Frontend)](https://github.com/JoaoG23/Sistema-Acesso-Frontend)
 
