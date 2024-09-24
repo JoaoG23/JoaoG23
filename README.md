@@ -1,22 +1,20 @@
-
-# **Olá!👋😜 Eu sou o João Guilherme** 
+# **Olá!👋😄 Eu sou o João Guilherme**
 
 <img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" width="96"/>
 
-### **Sabia um pouco sobre mim! 😉**
+### **Um pouco sobre mim** 🌍🚀
 
--	Moro no Brasil
--	Estudo Desenvolvimento Web atualmente e Desktop as vezes! 🌎💻
--	Gosto muito de:
-- Animes🏜️
-- ler livros📖
-- Musicas Só Rock🎸 e MPB🎻,
-- Malhar 💪 e as vezes me teletransportar para o Nirvana 🏔️com a meditação🧘.
+Sou brasileiro, atualmente focado no desenvolvimento web e, de vez em quando, mergulho no mundo do desenvolvimento desktop. Adoro explorar e aprender novas tecnologias! 🚀
 
-<img width='80' align='right' src='https://media4.giphy.com/media/9541eIHk1MNLa/giphy.gif?cid=ecf05e470ndn3cvumlohnlmei40zeoiy463x3n0qxs0zv089&rid=giphy.gif&ct=g'>
-<h3 align='left'>Minha Habilidades são 🦾:</h3>
+Além disso, meus interesses vão além do código:
+- **Animes** 🏜️
+- **Leitura** 📚
+- **Música**: Rock 🎸 e MPB 🎻
+- **Fitness e bem-estar**: Malhar 💪, Meditação 🧘 e Yoga 🤸🏽
 
-**Frontend** 📲👩🏽‍💻
+<h3>Minhas Habilidades Técnicas 💻</h3>
+
+**Frontend** 🌟:
 
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -30,7 +28,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
-**Backend** 🥑👥
+**Backend** 💡:
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org/)
@@ -48,26 +46,32 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![Oracle db](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)]()
 
+### Projetos Recentes 👇
 
+Aqui estão alguns dos meus projetos mais recentes que estou orgulhoso de compartilhar:
 
-
-### Os melhores! 😁👌🏽
-Quando puder, por favor confira alguns de meus projetos mais recentes, ficarei muito grato agradeço desde já. 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoG23&repo=GContas)](https://github.com/JoaoG23/GContas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoG23&repo=e-commerce-api)](https://github.com/JoaoG23/e-commerce-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoG23&repo=fx-financas)](https://github.com/JoaoG23/fx-financas) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoG23&repo=fx-financas)](https://github.com/JoaoG23/fx-financas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoG23&repo=Sistema-Acesso-Frontend)](https://github.com/JoaoG23/Sistema-Acesso-Frontend)
 
-### Estatísticas sobre os meus projetos![status](https://img.icons8.com/color/24/000000/combo-chart--v2.png)
+---
+
+### Estatísticas 📊
+
 ![JoaoG23 GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoG23&show_icons=true&theme=algolia)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoG23&layout=compact&theme=react)](https://github.com/JoaoG23/github-readme-stats)
 
-### Contatos
-[![Joao Guilherme](	https://img.shields.io/badge/LinkedIn-Joaog123-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joaog123/)](https://www.linkedin.com/in/joaog123/) [![Joao Guilherme](https://img.shields.io/badge/Gmail-Joazi-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joazinhotito@gmail.com)[![Joao Guilherme](https://img.shields.io/badge/Microsoft_Outlook-joaoguilherme94-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=whitelink=mailto:joaoguilherme94@live.com)](mailto:joaoguilherme94@live.com)
+---
 
-##### 🤭🤘🏽 Acho que já conhecem um pouco mais sobre mim! Obrigado por visualizar! Até a próxima pessoal!
+### Conecte-se comigo 📫
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joaog123-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joaog123/)](https://www.linkedin.com/in/joaog123/) 
+[![Gmail](https://img.shields.io/badge/Gmail-Joazi-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joazinhotito@gmail.com) 
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-joaoguilherme94-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joaoguilherme94@live.com)
+
+Obrigado por conferir meu perfil! Até a próxima! 😊✌️
 
 <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="96"/>
-
-
