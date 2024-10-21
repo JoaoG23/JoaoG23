@@ -4,7 +4,7 @@
 
 ### **Um pouco sobre mim** 🌍🚀
 
-Sou brasileiro, atualmente focado no desenvolvimento web e, de vez em quando, mergulho no mundo do desenvolvimento desktop. Adoro explorar e aprender novas tecnologias! 🚀
+Sou brasileiro, atualmente focado no desenvolvimento web e, de vez em quando, mergulho no mundo de RPAs, extração de dados, etc. Adoro explorar e aprender novas tecnologias! 🚀
 
 Além disso, meus interesses vão além do código:
 - **Animes** 🏜️
