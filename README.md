@@ -2,7 +2,7 @@
 
 <img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" width="96"/>
 
-### 🌐 Desenvolvedor Full Stack
+### 🌐 Desenvolvedor Full Stack | Entusiasta em Automação
 
 Sou brasileiro, **Desenvolvedor Web Full Stack** com foco em tecnologias modernas. Além do desenvolvimento web, possuo experiência em **RPA**, **Extração de Dados** e **Automação**, buscando sempre soluções eficientes e inovadoras.
 
@@ -38,14 +38,15 @@ Minha stack é versátil, abrangendo desde o frontend moderno até o backend rob
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
 #### 💡 Backend & Infraestrutura
 
+[![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)](https://sentry.io/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)]()
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
@@ -55,12 +56,19 @@ Minha stack é versátil, abrangendo desde o frontend moderno até o backend rob
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
-[![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)](https://sentry.io/)
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Oracle Cloud Infrastructure](https://img.shields.io/badge/OCI-000000?style=for-the-badge&logo=oracle&logoColor=red)](https://www.oracle.com/br/cloud/)
 [![Messaging](https://img.shields.io/badge/Messaging-00AAEE?style=for-the-badge&logo=messagequeue&logoColor=white)](https://pt.wikipedia.org/wiki/Mensageiria)
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
-[![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-000000?style=for-the-badge&logo=oracle&logoColor=red)](https://www.oracle.com/br/cloud/)
+
+**Comunicação & Protocolos**
+
+[![SOAP](https://img.shields.io/badge/SOAP-006096?style=for-the-badge&logo=soap&logoColor=white)]()
+[![REST API](https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=api&logoColor=white)]()
+[![Webhook](https://img.shields.io/badge/Webhook-008000?style=for-the-badge&logo=webhook&logoColor=white)]()
+[![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-FF4400?style=for-the-badge&logo=oauth2&logoColor=white)](https://oauth.net/2/)
 
 #### 💾 Bancos de Dados
 
