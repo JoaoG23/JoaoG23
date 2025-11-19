@@ -2,7 +2,7 @@
 
 <img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" width="96"/>
 
-### 🌐 Desenvolvedor Full Stack | Entusiasta em Automação
+### 🌐 Desenvolvedor Full Stack 
 
 Sou brasileiro, **Desenvolvedor Web Full Stack** com foco em tecnologias modernas. Além do desenvolvimento web, possuo experiência em **RPA**, **Extração de Dados** e **Automação**, buscando sempre soluções eficientes e inovadoras.
 
